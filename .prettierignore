@@ -1,0 +1,7 @@
+# managed by sku
+*.less.d.ts
+/Users/lshaw/projects/dist-storybook/
+/Users/lshaw/projects/dist/
+coverage/
+report/
+# end managed by sku

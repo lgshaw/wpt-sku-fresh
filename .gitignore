@@ -1,0 +1,12 @@
+node_modules
+npm-debug.log
+
+# managed by sku
+.eslintrc
+.prettierrc
+/Users/lshaw/projects/dist-storybook/
+/Users/lshaw/projects/dist/
+coverage/
+report/
+tsconfig.json
+# end managed by sku
